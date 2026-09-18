@@ -2,6 +2,8 @@
 
 ## 1. Giới thiệu
 
+Có thể test thử BOT tại Telegram: @Goiphanmem1nhom2_bot
+
 Đây là project FinTech Bot được xây dựng bằng Python và Telegram Bot.
 
 Bot có chức năng lấy dữ liệu giá cổ phiếu từ Vietcap API, tính toán một số chỉ báo kỹ thuật và trả về tín hiệu BUY, SELL hoặc HOLD thông qua Telegram.
