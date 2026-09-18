@@ -30,7 +30,7 @@ Bot có chức năng lấy dữ liệu giá cổ phiếu từ Vietcap API, tính
 
 ## 4. Cấu trúc project
 
-```text
+text
 Nhom2-BOT/
 │
 ├── vietcap_api.py
